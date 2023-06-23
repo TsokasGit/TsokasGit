@@ -3,7 +3,7 @@
 <p>Currently studying @ uom.AppliedInformatics()</p><img width="30px" align="left" alt="robotgif" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"/>
 
 <br/>
-### 🛠️ Languages and Tools
+🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
