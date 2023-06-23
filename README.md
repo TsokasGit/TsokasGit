@@ -1,6 +1,6 @@
 ### Hi there, my name is Petros👋
 <p>I am a web developer experienced in HTML, CSS, Javascript React and Solidity. I am also experienced in Game Developing on engines like Unreal Engine and Unity.</p>
-<p>Currently studying @ uom.AppliedInformatics()</p> <img align="left" alt="robotgif" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"/>
+<p>Currently studying @ uom.AppliedInformatics()</p> <img width="30px" align="left" alt="robotgif" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"/>
 
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
