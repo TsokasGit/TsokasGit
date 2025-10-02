@@ -1,5 +1,7 @@
 ### Hi there, my name is Petros.👋
-<p>I am a Front-End developer experienced in HTML, CSS, Javascript, React and Solidity. I am also experienced in Game Developing on engines like Unreal Engine and Unity.</p>
+<p>As a full-stack developer at Deloitte, I collaborate with a talented team of designers, engineers, and consultants to create innovative and user-friendly web solutions for our clients.
+
+I am also pursuing a degree in Applied Informatics at the University of Macedonia, focusing on Computer Science.</p>
 <p>Currently studying @ uom.AppliedInformatics(); &nbsp <img height="30" width="30" align="center" alt="pcguy" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"/></p>
 
 ### 🛠️ Programming Languages And Tools
