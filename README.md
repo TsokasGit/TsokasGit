@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-Full-stack developer at **Deloitte** building e-commerce and web experiences for international luxury brands — **Brunello Cucinelli, Illy, Vhernier, Barilla, Autotorino**.
+Full-stack developer at **Deloitte** building e-commerce and web experiences for international luxury brands.
 
 When I'm not shipping production code, I'm designing voxel worlds in UE5, tinkering with Arduino, or exploring whatever problem is interesting that week.
 
